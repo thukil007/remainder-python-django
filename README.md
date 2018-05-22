@@ -20,3 +20,14 @@ python manage.py createsuperuser
 5. Run server
 
 python manage.py runserver
+
+
+### Screenshots
+
+https://github.com/thukil007/remainder-python-django/blob/master/screenshot/tugil1.PNG
+
+https://github.com/thukil007/remainder-python-django/blob/master/screenshot/tugil2.PNG
+
+https://github.com/thukil007/remainder-python-django/blob/master/screenshot/tugil3.PNG
+
+https://github.com/thukil007/remainder-python-django/blob/master/screenshot/tugil4.PNG
