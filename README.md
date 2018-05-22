@@ -10,7 +10,7 @@ This project is built using the Django web framework. It runs on Python 2.7+
 
 3. Run the migrations:
 
-python manage.py makemigrations
+python manage.py makemigrations    
 python manage.py migrate
 
 4. Create a superuser so you can access the Django admin: 
